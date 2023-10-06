@@ -27,7 +27,7 @@
 <details>
   <summary>Решение</summary>
   
-
+[Автотесты для формы "Регистрация"](https://github.com/DmitriyRonMan/Registration_Form)
   
 </details>
 
